@@ -1,0 +1,59 @@
+﻿FishImplementationGuide : Validation Results
+=========================================
+
+err = 0, warn = 2, info = 0
+IG Publisher Version: 1.1.83 Out of date - current version is 1.1.128
+Generated Mon Aug 29 10:49:42 UTC 2022. FHIR version 4.0.1 for fish#0.1.0 (canonical = http://example.org/fhir/fish)
+ Build Errors : 36 / 1 / 0
+ /github/workspace/fsh-generated/resources/ImplementationGuide-fish : 0 / 0 / 1
+ /github/workspace/fsh-generated/resources/Patient-Shorty : 0 / 0 / 1
+ /github/workspace/fsh-generated/resources/StructureDefinition-fish-patient : 0 / 0 / 1
+ /github/workspace/fsh-generated/resources/StructureDefinition-fish-species : 0 / 0 / 1
+ /github/workspace/fsh-generated/resources/StructureDefinition-veterinarian : 0 / 1 / 1
+ /github/workspace/fsh-generated/resources/ValueSet-fish-species-value-set : 0 / 0 / 1
+</table>
+== n/a ==
+WARNING: Unable to find ImplementationGuide.definition.resource.description for the resource Patient/Shorty.  Descriptions are strongly encouraged if they cannot be inferred from the resource to allow proper population of the artifact list.
+ERROR: /github/workspace/output/Patient-Shorty.change.history.html#/html/body/div/div/div/p/a at Line 222, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/Patient-Shorty.html#/html/body/div/div/div/p/a at Line 222, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/Patient-Shorty.json.html#/html/body/div/div/div/p/a at Line 257, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/Patient-Shorty.ttl.html#/html/body/div/div/div/p/a at Line 269, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/Patient-Shorty.xml.html#/html/body/div/div/div/p/a at Line 247, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-patient-definitions.html#/html/body/div/div/div/p/a at Line 771, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-patient-examples.html#/html/body/div/div/div/p/a at Line 289, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-patient-mappings.html#/html/body/div/div/div/p/a at Line 374, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-patient.html#/html/body/div/div/div/p/a at Line 759, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-patient.profile.history.html#/html/body/div/div/div/p/a at Line 267, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-patient.profile.json.html#/html/body/div/div/div/p/a at Line 2616, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-patient.profile.ttl.html#/html/body/div/div/div/p/a at Line 2311, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-patient.profile.xml.html#/html/body/div/div/div/p/a at Line 2397, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-species-definitions.html#/html/body/div/div/div/p/a at Line 315, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-species-mappings.html#/html/body/div/div/div/p/a at Line 275, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-species.html#/html/body/div/div/div/p/a at Line 537, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-species.profile.history.html#/html/body/div/div/div/p/a at Line 257, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-species.profile.json.html#/html/body/div/div/div/p/a at Line 614, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-species.profile.ttl.html#/html/body/div/div/div/p/a at Line 578, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-fish-species.profile.xml.html#/html/body/div/div/div/p/a at Line 563, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-veterinarian-definitions.html#/html/body/div/div/div/p/a at Line 634, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-veterinarian-examples.html#/html/body/div/div/div/p/a at Line 268, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-veterinarian-mappings.html#/html/body/div/div/div/p/a at Line 347, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-veterinarian.html#/html/body/div/div/div/div/div/table/tr/td/span/div/div/div/p/a at Line 753, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-veterinarian.profile.history.html#/html/body/div/div/div/p/a at Line 257, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-veterinarian.profile.json.html#/html/body/div/div/div/p/a at Line 2071, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-veterinarian.profile.ttl.html#/html/body/div/div/div/p/a at Line 1817, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-veterinarian.profile.xml.html#/html/body/div/div/div/p/a at Line 1887, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/ValueSet-fish-species-value-set.change.history.html#/html/body/div/div/div/p/a at Line 222, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/ValueSet-fish-species-value-set.html#/html/body/div/div/div/p/a at Line 295, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/ValueSet-fish-species-value-set.json.html#/html/body/div/div/div/p/a at Line 264, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/ValueSet-fish-species-value-set.ttl.html#/html/body/div/div/div/p/a at Line 271, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/ValueSet-fish-species-value-set.xml.html#/html/body/div/div/div/p/a at Line 256, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/artifacts.html#/html/body/div/div/div/p/a at Line 272, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/p/a at Line 241, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+ERROR: /github/workspace/output/toc.html#/html/body/div/div/div/p/a at Line 158, column 28: The link 'cod@reef.gov' for "" cannot be resolved
+== fsh-generated/resources/ImplementationGuide-fish.json ==
+== fsh-generated/resources/Patient-Shorty.json ==
+== fsh-generated/resources/StructureDefinition-fish-patient.json ==
+== fsh-generated/resources/StructureDefinition-fish-species.json ==
+== fsh-generated/resources/StructureDefinition-veterinarian.json ==
+WARNING: StructureDefinition.where(url = 'http://example.org/fhir/fish/StructureDefinition/veterinarian'): The Implementation Guide contains no examples for this profile
+== fsh-generated/resources/ValueSet-fish-species-value-set.json ==
